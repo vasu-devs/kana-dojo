@@ -84,6 +84,14 @@ const themes: ThemeGroup[] = [
     icon: Moon,
     themes: [
       {
+        id: "fuji",
+        backgroundColor: "hsla(210, 28%, 11%, 1)",
+        cardColor: "hsla(210, 26%, 15%, 1)",
+        borderColor: "hsla(210, 24%, 23%, 1)",
+        mainColor: "hsla(200, 55%, 75%, 1)",
+        secondaryColor: "hsla(0, 0%, 92%, 1)",
+      },
+      {
         id: 'nord',
         backgroundColor: 'hsl(220, 16%, 23%)',
         cardColor: 'hsl(220, 16%, 30%)',
